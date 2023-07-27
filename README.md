@@ -1,6 +1,6 @@
 ### ¡Hola mundo! 👋
 Esta es la página principal de cualquier usuario de GitHub :octocat:
-
+Esta cuenta de GitHub es exclusiva para mis prácticas 😄
 <!--
 **maria-futura/maria-futura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
